@@ -1,4 +1,13 @@
 ---
+title: test-for-obsidian
+published: 2025-08-02
+description: ''
+image: ''
+tags: []
+category: ''
+draft: false 
+lang: ''
+
 doc_type: weread-highlights-reviews
 bookId: "3300043902"
 reviewCount: 0
