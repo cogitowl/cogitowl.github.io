@@ -1,9 +1,20 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+这里是 BloggingOwl 的个人博客，使用 Fuwari 作为主题。
 
-::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+
+### 特别说明
+
+博客内所有的文章都从 Obsidian 私有 Github 仓库中选择性自动复制到这里的。
+
+这意味着部分帖子中可能有格式错误（双向链接），还请无视。
+
+
+
+### 在本网站中用到的资源
+
+- [空色天絵](https://www.pixiv.net/artworks/111033533)
+
+大部分资源引用说明在帖子最底部可以看到。
+
+*部分资源可能来自于其他网站或作者，若有侵权请联系我删除。*
