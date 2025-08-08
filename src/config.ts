@@ -81,8 +81,8 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Mail",
-			icon: "fa6-brands:apple",
-			url: "mailto:apple.owl@icloud.com",
+			icon: "fa6-brands:space-awesome",
+			url: "mailto:hi@owlth.ink",
 		},
 	],
 };
