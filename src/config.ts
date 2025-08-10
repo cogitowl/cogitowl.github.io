@@ -44,16 +44,16 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
-		{
-			name: "统计",
-			url: "https://cloud.umami.is/share/kSgxpZvCM18i84u8/www.owlth.ink", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
-		{
-			name: "GitHub",
-			url: "https://github.com/cogitowl/cogitowl.github.io", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		// {
+		// 	name: "统计",
+		// 	url: "https://cloud.umami.is/share/kSgxpZvCM18i84u8/www.owlth.ink", // Internal links should not include the base path, as it is automatically added
+		// 	external: true, // Show an external link icon and will open in a new tab
+		// },
+		// {
+		// 	name: "GitHub",
+		// 	url: "https://github.com/cogitowl/cogitowl.github.io", // Internal links should not include the base path, as it is automatically added
+		// 	external: true, // Show an external link icon and will open in a new tab
+		// },
 	],
 };
 
@@ -89,8 +89,8 @@ export const profileConfig: ProfileConfig = {
 
 export const licenseConfig: LicenseConfig = {
 	enable: true,
-	name: "CC BY-NC-SA 4.0",
-	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+	name: "CC BY-SA 4.0", 
+	url: "https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans",
 };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
